@@ -1,5 +1,5 @@
 == README
-
+Working on a tutorial of RoR that goes through: 
 * Ruby version
 
 * System dependencies
